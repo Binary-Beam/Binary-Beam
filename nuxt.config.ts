@@ -15,7 +15,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       bodyAttrs: {
-        class: 'dark bg-white dark:bg-neutral-900',
+        class: 'dark bg-neutral-900',
       },
     },
   },
